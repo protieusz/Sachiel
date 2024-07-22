@@ -1,5 +1,5 @@
-# Angel
-Angel, inspired by Grumpy, 34 keys custom keyboard with 25mm trackball
+# Sachiel
+Sachiel, inspired by Grumpy, 34 keys custom keyboard with 25mm trackball
 
 # Description
 TBUpdated.
