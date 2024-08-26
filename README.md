@@ -26,7 +26,6 @@ QMK code is the same modified from aki27's bally code. I don't how the code work
 ![IMG_2760](https://github.com/user-attachments/assets/542ded53-6628-429c-8b60-79d9fd658024)
 ![IMG_2761](https://github.com/user-attachments/assets/e0dafd97-0e23-42b3-a753-544832206f19)
 ![41BBA1AD-F132-4E0E-9B04-4C7E31181316](https://github.com/user-attachments/assets/6b8209a3-5a2b-4944-88e9-9a5ba3cb5827)
-![IMG_2763](https://github.com/user-attachments/assets/d399a3b7-d53f-4cda-bae9-68caf323352a)
 ![IMG_2756](https://github.com/user-attachments/assets/5943aea4-ea55-4065-bc0d-c423f19c6ab2)
 ![IMG_2757](https://github.com/user-attachments/assets/19d3d29b-c69b-4e5f-8dbe-e054d478b965)
 ![IMG_2759](https://github.com/user-attachments/assets/f2463876-3d2e-434e-9c3e-404ef46c22f6)
