@@ -23,6 +23,7 @@ QMK code is the same modified from aki27's bally code. I don't how the code work
 
 # Full Production
 
+![IMG_2834](https://github.com/user-attachments/assets/47c912b3-dfc5-4727-b84f-286701524d3a)
 ![IMG_2760](https://github.com/user-attachments/assets/542ded53-6628-429c-8b60-79d9fd658024)
 ![IMG_2761](https://github.com/user-attachments/assets/e0dafd97-0e23-42b3-a753-544832206f19)
 ![41BBA1AD-F132-4E0E-9B04-4C7E31181316](https://github.com/user-attachments/assets/6b8209a3-5a2b-4944-88e9-9a5ba3cb5827)
